@@ -13,16 +13,11 @@
 <strong>抖音视频</strong> ·
 <strong>BiliBili</strong> ·
 <strong>快手视频</strong> ·
-<strong>TikTok</strong>
+<strong>TikTok</strong> ·
+<strong>淘宝直播</strong>
 </p>
 <br/>
 </div>
-
-### 最新消息
-
-Hello 嗨！大家新年好呀！在 2024 新的一年里，我们的新产品终于孵化问世啦！现在软件正处于内测期，欢迎各位体验、测试，在程序内测期间新邮箱注册默认给予 180 天授权及 `LV.2` 等级，内测期间发现重大 BUG 或提出有重大价值的更新方向，提交并被官方工作人员采纳后，还会给予相应的现金奖励！
-
-欢迎加入我们的 [(交流QQ群)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fvmRIA1HpfFUA0LCMeN_6tQtS9nlNLcO&authKey=USGXAR4jxCvoq8n2YtU7%2FeGMNFHocuU4JOYvx71uJDURXgGnYsHCG%2F7PcauGV7DX&noverify=0&group_code=829242770) 获得最新消息及服务支持！
 
 ### 功能支持
 
