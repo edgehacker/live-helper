@@ -10,7 +10,7 @@
 <br/>
 <p>
 当前兼容平台：
-<strong>抖音视频</strong> ·
+<strong>抖音</strong> ·
 <strong>BiliBili</strong> ·
 <strong>快手视频</strong> ·
 <strong>TikTok</strong> ·
