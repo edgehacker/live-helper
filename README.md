@@ -18,7 +18,8 @@
 <strong>AcFun</strong> ·
 <strong>斗鱼</strong> ·
 <strong>支付宝直播</strong> ·
-<strong>微信视频号</strong>
+<strong>微信视频号</strong> ·
+<strong>拼多多</strong>
 </p>
 <br/>
 </div>
